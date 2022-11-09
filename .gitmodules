@@ -1,0 +1,3 @@
+[submodule "repo/service.stinger.notification2"]
+	path = repo/service.stinger.notification2
+	url = git@github.com:thedeedubyah/service.stinger.notification2.git
